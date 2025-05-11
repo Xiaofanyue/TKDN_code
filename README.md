@@ -10,6 +10,7 @@ The code links of the main comparison methods are as follows:
 Datesets
 ---
 Links of Fakeddit dataset is:https://github.com/entitize/Fakeddit
+Links of Fakeddit dataset used in TKDN is：https://pan.baidu.com/s/16vFqyesKwGFItRrx9u5wfA?pwd=g6gj Extraction code: g6gj
 
 Training
 ---
