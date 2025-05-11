@@ -22,7 +22,8 @@ Training
 Results
 ---
 The results on the Weibo, Fakeddit and Pheme datasets with 20% labeling rate.
-![image](https://github.com/user-attachments/assets/4a634b57-b7ac-4727-8f83-55d14c8e443b)
+![image](https://github.com/user-attachments/assets/f669a541-51b7-4b6b-9c75-e8059ad9ca16)
+
 
 
 References
